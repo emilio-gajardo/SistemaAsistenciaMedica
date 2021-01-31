@@ -1,0 +1,37 @@
+body{
+    background-image: url('../Imagenes/fondo.png');
+}
+
+.jumbotron{
+    background-color: #0f69b4;
+    color: white;
+}
+
+.panel-heading{
+    background-color: #0f69b4 !important;
+    color: white !important;
+}
+
+.panel-body{
+    color: #919191 !important;
+}
+
+.navbar{
+    background-color: #1561c5 !important;
+}
+
+.navbar-brand:link, .navbar-brand:visited{
+    color: #ffffff  !important;
+}
+
+.navbar-brand:hover, .navbar-brand:active{
+    color: white !important;
+}
+
+#navbar li a:link, #navbar li a:visited {
+    color: white !important;
+}
+
+#navbar li a:hover, #navbar li a:active {
+    color: #24d8f8 !important;
+}
